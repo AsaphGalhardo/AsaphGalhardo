@@ -1,6 +1,5 @@
 ### Hi there Eu sou Asaph Galhardo
 
-- 🌱 I’m currently learning  My Sql C#
 
 
 
